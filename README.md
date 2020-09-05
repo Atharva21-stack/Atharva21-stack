@@ -2,14 +2,14 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
  
-### hey developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,
+### Hey Developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,
 <!-- **cmulay/cmulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and Cyber Security. 
 
 <!-- - 🔭 I’m currently working at: -->
 
-- 🌱 I’m currently learning: Data Science | Full Stack Web development | App Development | Networking | Cyber Security
+- 🌱 I’m currently learning: ios Development | Full Stack Web development | App Development | Networking | Cyber Security
 
 - 👯 I’m looking to collaborate on: Android and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
