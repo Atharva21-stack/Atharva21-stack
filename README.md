@@ -2,7 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
  
-### Hey Developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,
+### Hey Developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <!-- **cmulay/cmulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and Cyber Security. 
@@ -70,10 +70,9 @@ YAML         8 mins          ▒░░░░░░░░░░░░░░░░
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
 
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chinmay.mulay30@gmail.com)
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wolfie.here)
-[<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cmulay/)
-[<img align="left" alt="cmulay" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ctechcontinentals.ml/)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chandwadkar28@gmail.com)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/atharva.21?igshid=4gskes0uw0uy)
+[<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 <br />
 </details>
 
