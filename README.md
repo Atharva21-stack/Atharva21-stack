@@ -6,8 +6,6 @@
 ### Hey Developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <!-- **cmulay/cmulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- <img align="right" alt="img" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/home-right.png" width="500" height="320" />
-
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and Cyber Security. 
 
 <!-- - 🔭 I’m currently working at: -->
