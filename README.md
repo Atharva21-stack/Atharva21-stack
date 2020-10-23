@@ -52,16 +52,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 <details>
  <summary>⏳ My Stats:</summary>
  <br />
- 
-<!--START_SECTION:waka-->
-```text
-C            4 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   42.98 % 
-HTML         3 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 % 
-JavaScript   1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-CSS          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
-<!--END_SECTION:waka-->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack)](https://github.com/ryo-ma/github-profile-trophy)
  
 <br />
 </details>
