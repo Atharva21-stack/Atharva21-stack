@@ -4,8 +4,9 @@
  <h2 align="center">Profile</h2>
  
 ### Hey Developers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<!-- **cmulay/cmulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320" />
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and Cyber Security. 
 
 <!-- - 🔭 I’m currently working at: -->
