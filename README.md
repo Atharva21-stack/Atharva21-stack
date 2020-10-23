@@ -10,6 +10,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
 ---
+
 <details>
 <summary>👨🏻‍💻 Languages and Tools:</summary>
  <br />
@@ -32,18 +33,15 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 
 </details>
 
----
-
 <details>
  <summary>⏳ My Trophies:</summary>
  <br />
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=flat&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=flat&title=Commit,Repos,Followers,PR,Star)](https://github.com/ryo-ma/github-profile-trophy)
  
 <br />
 </details>
 
----
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
