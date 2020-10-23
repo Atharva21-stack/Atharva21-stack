@@ -38,7 +38,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  <summary>⏳ My Trophies:</summary>
  <br />
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=flat&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
  
 <br />
 </details>
