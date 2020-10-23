@@ -30,9 +30,8 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+<br />
 </details>
-
 <br />
 
 <details>
@@ -40,7 +39,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
     <br />
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=flat&title=Commit,Repos,Followers,PR,Star)](https://github.com/ryo-ma/github-profile-trophy)
- 
+ <br />
 </details>
 <br />
 
@@ -53,5 +52,5 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 <br />
 </details>
-
+<br />
 ---
