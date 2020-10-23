@@ -50,7 +50,6 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 
 [<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chandwadkar28@gmail.com)
 [<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/atharva.21?igshid=4gskes0uw0uy)
-[<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 <br />
 </details>
 
