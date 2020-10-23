@@ -2,6 +2,8 @@
 
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and iOS Development. 
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
 <!-- - 🔭 I’m currently working at: -->
 
 - 🌱 I’m currently learning: | Full Stack Web development | iOS App Development 
