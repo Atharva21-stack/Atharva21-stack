@@ -50,9 +50,10 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 ---
 
 <details>
- <summary>⏳ My Stats:</summary>
+ <summary>⏳ My Trophies:</summary>
  <br />
- [![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
  
 <br />
 </details>
