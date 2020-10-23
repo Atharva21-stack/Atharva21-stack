@@ -53,7 +53,6 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 <br />
 </details>
-<br />
 
 ---
 
