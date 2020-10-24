@@ -35,6 +35,8 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 </details>
 <br />
 
+---
+
 <details>
   <summary>⏳ My Trophies:</summary>
     <br />
