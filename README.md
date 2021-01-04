@@ -34,7 +34,13 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 ### My WakaTime Stats:
  
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Week: 27 December, 2020 - 03 January, 2021
+
+Java     5 mins          ███████████████░░░░░░░░░░   60.54 % 
+Python   3 mins          ██████████░░░░░░░░░░░░░░░   39.46 % 
+```
+<!--END_SECTION:waka-->
 
 
 
