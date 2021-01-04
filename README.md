@@ -10,16 +10,6 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 
 ---
 
-<details>
-  <summary>⏳ My Trophies:</summary>
-    <br />
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharva21-stack&theme=flat&title=Commit,Repos,Followers,PR,Star)](https://github.com/ryo-ma/github-profile-trophy)
- <br />
-</details>
-
----
-
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
