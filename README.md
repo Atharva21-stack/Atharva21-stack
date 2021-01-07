@@ -25,10 +25,9 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  
   <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-C++      15 mins         ███████████████████▒░░░░░   77.86 % 
-Python   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.14 % 
+C++   1 hr 12 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
