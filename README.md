@@ -27,7 +27,8 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 ```text
 Week: 30 December, 2020 - 06 January, 2021
 
-C++   1 hr 12 mins    █████████████████████████   100.00 % 
+C++    1 hr 12 mins    ████████████████████████░   95.51 % 
+Java   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 <!--END_SECTION:waka-->
 
