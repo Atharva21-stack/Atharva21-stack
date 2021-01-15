@@ -25,13 +25,13 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  
   <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-Python       46 mins         ███████▓░░░░░░░░░░░░░░░░░   30.38 % 
-Java         40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 % 
-HTML         25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-JavaScript   20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-C            17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Python       49 mins         ████████▓░░░░░░░░░░░░░░░░   35.01 % 
+Java         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 % 
+HTML         25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 % 
+JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+C            17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 <!--END_SECTION:waka-->
 
