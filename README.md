@@ -14,8 +14,8 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
 
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chandwadkar28@gmail.com)
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/atharva.21?igshid=4gskes0uw0uy)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/gmail.png" />](mailto:chandwadkar28@gmail.com)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/instagram.png" />](https://instagram.com/atharva.21?igshid=4gskes0uw0uy)
 <br />
 </details>
 
