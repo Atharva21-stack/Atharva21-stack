@@ -80,13 +80,13 @@ I am a Computer Engineering Student. I love programming and trying to find more 
   - Social:
  <p>
   
-  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
+  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/gmail.png" />](mailto:chandwadkar28@gmail.com)
 
-  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/instagram-new.png" />](https://www.instagram.com/_theguywithglasses_)
+  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/instagram-new.png" />](https://www.instagram.com/atharva.21/)
   
-  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
+  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/linkedin.png" />](https://www.linkedin.com/in/atharva-c-48014bb0/)
   
-  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/twitter.png" />](https://twitter.com/cmulay17)
+  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/twitter.png" />](https://twitter.com/Atharva2100)
  
  </p>
 </div>
