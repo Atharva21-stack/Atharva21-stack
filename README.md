@@ -1,3 +1,5 @@
+[![ProfileBanner](https://github.com/cmulay/cmulay/blob/master/designs/banner/profile_banner.png)](https://ac21.is-a.dev/)
+
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and iOS Development. 
 
