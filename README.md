@@ -99,7 +99,13 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 ### My WakaTime Stats:   
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+Week: 09 April, 2021 - 16 April, 2021
+
+Git Config   10 mins         ████████████████████▒░░░░   81.86 % 
+JavaScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+```
+<!--END_SECTION:waka-->
 
 ---
 
