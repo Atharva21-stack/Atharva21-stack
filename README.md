@@ -1,4 +1,4 @@
-<!--[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/profile_banner.png](https://ac21.is-a.dev/)-->
+[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/profile_banner.png)](https://ac21.is-a.dev/)
 
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and iOS Development. 
@@ -19,20 +19,16 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 <div> 
     - Technologies:
         <p><br>
-            <img align="left" alt="atharva21-stack | C++" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/c-plus-plus-logo.png" />
-            <img align="left" alt="atharva21-stack | HTML5" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/html5.png" />
-            <img align="left" alt="atharva21-stack | CSS3" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/css3.png" />                      
-            <img align="left" alt="atharva21-stack | PHP" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/php.png" />                      
-            <img align="left" alt="atharva21-stack | JAVA" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/java.png" />                      
-            <img align="left" alt="atharva21-stack | JavaScript" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/javascript.png" />                      
-            <img align="left" alt="atharva21-stack | React" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/react.png" />                      
-            <img align="left" alt="atharva21-stack | Android Development" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/android.png" />                      
-            <img align="left" alt="atharva21-stack | Android with Kotlin" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/kotlin.png" />                      
-            <img align="left" alt="atharva21-stack | Flutter" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/flutter.png" />                      
-            <img align="left" alt="atharva21-stack | Firebase" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/firebase.png" />                      
-            <img align="left" alt="atharva21-stack | Swift" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/swift.png" />                      
-            <img align="left" alt="atharva21-stack | Python" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/python.png" />                      
-            <img align="left" alt="atharva21-stack | MySQL" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/mysql.png" />                      
+            <img align="left" alt="cmulay | C++" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/c-plus-plus-logo.png" />
+            <img align="left" alt="cmulay | HTML5" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/html-5.png" />
+            <img align="left" alt="cmulay | CSS3" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/css3.png" />                      
+            <img align="left" alt="cmulay | PHP" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/php-logo.png" />                      
+            <img align="left" alt="cmulay | JAVA" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/java-coffee-cup-logo.png" />                      
+            <img align="left" alt="cmulay | JavaScript" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/javascript-logo.png" />                      
+            <img align="left" alt="cmulay | React" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/react-native.png" />                                         
+            <img align="left" alt="cmulay | Android with Kotlin" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/kotlin.png" />                                          
+            <img align="left" alt="cmulay | Swift" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/swift.png" />                      
+            <img align="left" alt="cmulay | Python" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/mytech/python.png" />                      
         </p><br>
 </div>
 
@@ -41,17 +37,11 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 <div> 
      - IDE's and S/W Package Managers:
             <p><br>
-                
                 <img align="left" alt="atharva21-stack | Adobe Dreamweaver" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/intellij-idea.png" />
-                
                 <img align="left" alt="atharva21-stack | Adobe Dreamweaver" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/pycharm.png" />
-
                 <img align="left" alt="atharva21-stack | Visual Studio Code" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/visual-studio-logo.png" />
-
                 <img align="left" alt="atharva21-stack | Apple XCode" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/xcode.png" />
-
                 <img align="left" alt="atharva21-stack | Apple XCode" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/npm.png" />
-
                 <img align="left" alt="atharva21-stack | Apple XCode" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/ide_packages/homebrew.png" />
             </p><br>
 </div>
@@ -61,7 +51,6 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 <div> 
     - OS:
         <p><br>
-            
             <img align="left" alt="atharva21-stack | macOS" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/os/mac-os.png" />
             <img align="left" alt="atharva21-stack | Windows" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/os/windows-client.png" />                      
         </p>
@@ -80,9 +69,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  - Visit:
  <p>
   
-  [<img align="left" alt="atharva21-stack | Portfolio" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/portfolio_website.png" />](https://atharva21-stack.is-a.dev)
-
-  [<img align="left" alt="atharva21-stack | Blogs" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/personal_website.png" />](https://www.ichinmay.me)
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/domain.png" />](https://cmulay.is-a.dev)
   
  </p> <br>
 </div>
@@ -93,22 +80,19 @@ I am a Computer Engineering Student. I love programming and trying to find more 
   - Social:
  <p>
   
-  [<img align="left" alt="atharva21-stack | Mail" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
+  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
 
-  [<img align="left" alt="atharva21-stack | Instagram" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/instagram.png" />](https://www.instagram.com/_theguywithglasses_)
+  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/instagram-new.png" />](https://www.instagram.com/_theguywithglasses_)
   
-  [<img align="left" alt="atharva21-stack | LinkedIn" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/atharva21-stack17)
+  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
   
-  [<img align="left" alt="atharva21-stack | Telegram" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/telegram.png" />](https://t.me/atharva21-stack)
-  
-  [<img align="left" alt="atharva21-stack | Twitter" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/twitter.png" />](https://twitter.com/atharva21-stack17)
+  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/twitter.png" />](https://twitter.com/cmulay17)
  
  </p>
 </div>
             <br>
     </details>
 </div>
-
 
 ---
 
