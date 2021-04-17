@@ -69,7 +69,7 @@ I am a Computer Engineering Student. I love programming and trying to find more 
  - Visit:
  <p>
   
-  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/domain.png" />](https://cmulay.is-a.dev)
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/socials/domain.png" />](https://ac21.is-a.dev)
   
  </p> <br>
 </div>
