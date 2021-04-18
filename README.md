@@ -100,10 +100,11 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 
  <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2021 - 16 April, 2021
+Week: 10 April, 2021 - 17 April, 2021
 
-Git Config   10 mins         ████████████████████▒░░░░   81.86 % 
-JavaScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Markdown     31 mins         ██████████████████░░░░░░░   71.57 % 
+Git Config   10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 % 
+JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 <!--END_SECTION:waka-->
 
