@@ -100,13 +100,13 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 
  <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-JavaScript   1 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.90 % 
-CSS          59 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 % 
-HTML         45 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript   57 mins         ███████████████░░░░░░░░░░   59.95 % 
+HTML         18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 % 
+CSS          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Text         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 <!--END_SECTION:waka-->
 
