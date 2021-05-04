@@ -106,7 +106,7 @@ JavaScript   22 mins         ██████████████▓░░
 CSS          13 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 % 
 SCSS         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka
 
 ---
 
