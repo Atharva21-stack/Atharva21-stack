@@ -98,17 +98,6 @@ I enjoy programming and am eager to learn more about full-stack web and app deve
     </details>
 </div>
 
----
-
-### My WakaTime Stats:   
-
- <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   22 mins         ██████████████▓░░░░░░░░░░   58.41 % 
-CSS          13 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 % 
-SCSS         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 
 
