@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/Atharva21-stack.mp4)](https://ac21.is-a.dev/)
+[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/Atharva21-stack1.gif)](https://ac21.is-a.dev/)
 
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and iOS Development. 
