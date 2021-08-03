@@ -1,12 +1,16 @@
 [![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/Atharva21-stack.gif)](https://ac21.is-a.dev/)
 
-### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-I am a Computer Engineering Student. I love programming and trying to find more about Full Stack Web Development and iOS Development. 
+### Hey Folks ! 🙋‍♂️🙋‍♂️
+I'm a computer science engineering student.
+I enjoy programming and am eager to learn more about full-stack web and app development.
 
-- 🔭 I’m currently working at: 
 
-- 🌱 I’m currently learning: | Full Stack Web development | iOS App Development 
-- 👯 I’m looking to collaborate on: Android and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-👨‍🎓 At the moment, I am the GDSC Lead at GES-COENGG.
+
+
+- 🌱 I'm skilled in web and app development.
+
+- 👯 I'd be delighted to work with you.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
@@ -99,16 +103,14 @@ I am a Computer Engineering Student. I love programming and trying to find more 
 ### My WakaTime Stats:   
 
  <!--START_SECTION:waka-->
-<!-- ```text
+
 Week: 26 April, 2021 - 03 May, 2021
 
 JavaScript   22 mins         ██████████████▓░░░░░░░░░░   58.41 % 
 CSS          13 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 % 
 SCSS         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-``` -->
-<!--END_SECTION:waka
 
----
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in%20-India-ff0019.svg?labelColor=black&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjI1IDE1MCI+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iMTUwIiBmaWxsPSIjZjkzIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjUwIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjEwMCIgZmlsbD0iIzEyODgwNyIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTIuNSw3NSkiPgo8Y2lyY2xlIHI9IjIwIiBmaWxsPSIjMDA4Ii8+CjxjaXJjbGUgcj0iMTcuNSIgZmlsbD0iI2ZmZiIvPgo8Y2lyY2xlIHI9IjMuNSIgZmlsbD0iIzAwOCIvPgo8ZyBpZD0iZCI+CjxnIGlkPSJjIj4KPGcgaWQ9ImIiPgo8ZyBpZD0iYSI+CjxjaXJjbGUgcj0iMC44NzUiIGZpbGw9IiMwMDgiIHRyYW5zZm9ybT0icm90YXRlKDcuNSkgdHJhbnNsYXRlKDE3LjUpIi8+CjxwYXRoIGZpbGw9IiMwMDgiIGQ9Ik0gMCwxNy41IDAuNiw3IEMgMC42LDcgMCwyIDAsMiAwLDIgLTAuNiw3IC0wLjYsNyBMIDAsMTcuNSB6Ii8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYiIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYyIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgo8dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTIwKSIvPgo8L2c+Cjwvc3ZnPgo="/>
