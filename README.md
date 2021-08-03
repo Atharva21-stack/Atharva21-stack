@@ -1,6 +1,6 @@
 [![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/Atharva21-stack.gif)](https://ac21.is-a.dev/)
 
-### Hey Folks ! 🙋‍♂️🙋‍♂️
+### Hey Folks ! 🙋‍♂
 I'm a computer science engineering student.
 I enjoy programming and am eager to learn more about full-stack web and app development.
 
