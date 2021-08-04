@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/master/designs/banner/Atharva21-stack.gif)](https://ac21.is-a.dev/)
+[![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/fb152bc0c57882fb9553353cde85ec2ca0c1e52a/designs/Atharva21-stack(2).gif)](https://ac21.is-a.dev/)
 
 ### Hey Folks ! 🙋‍♂
 I'm a computer science engineering student.
